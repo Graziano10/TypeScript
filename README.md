@@ -1,6 +1,5 @@
 # TypeScript
 
-Exercise TypeScript 
-Created this repository for React exercises.
+Created this repository for TypeScript exercises.
 
 {1 branch === 1 exercise}
